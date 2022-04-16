@@ -105,7 +105,17 @@
 
 ### Section A - Schedule
 
-<!-- TODO -->
+1. Either team may share the group link to the other team whenever they are ready
+    * A group link is considered shared when it is sent to every player on a team or to a player who confirms they will share it with their team
+2. The group leader for a match may be a member of either team or a third-party accepted by both teams
+3. If a captain or majority of both teams request the group leader to start then the game may be started at any time
+4. If a captain or majority of either team requests the group leader to start, they must start the game if all the following conditions are met
+    * The current time is past the scheduled game time
+    * The group link was shared at least 5 minutes ago
+5. Once a match has started the group leader will launch each game after a captain or majority of both teams indicates they are ready
+    * A team must indicate they are ready within 3 minutes of the previous game, unless a break is requested
+    * A team may only have one break per match, this break may only last up to 5 minutes
+6. Any team delaying a game by breaking these rules may receive a deduction in standing points as penalty
 
 ### Section B - Standing Points
 
